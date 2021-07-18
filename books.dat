@@ -1,0 +1,22 @@
+[
+    {
+        "id": "12",
+        "name": "Deep learning",
+        "description": "Deep learning concepts",
+        "isbn": "12-45",
+        "page_count": 4,
+        "issued": false,
+        "author": "J.K",
+        "year": 2023
+    },
+    {
+        "id": 2,
+        "name": "Black ",
+        "description": "jjjj",
+        "isbn": "55",
+        "page_count": 62,
+        "issued": true,
+        "author": "12",
+        "year": 99
+    }
+]
